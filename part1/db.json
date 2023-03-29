@@ -1,0 +1,105 @@
+{
+  "events":[
+    {
+      "id":"1",
+      "title":"Event 1",
+      "description":"Description 1",
+      "category":"Sports",
+      "date":"April 25"
+    },
+    {
+      "id":"2",
+      "title":"Event 2",
+      "description":"Description 2",
+      "category":"Cultural",
+      "date":"April 26"
+    },
+    {
+      "id":"3",
+      "title":"Event 3",
+      "description":"Description 3",
+      "category":"Sports",
+      "date":"April 25"
+    },
+    {
+      "id":"4",
+      "title":"Event 4",
+      "description":"Description 4",
+      "category":"Sports",
+      "date":"April 25"
+    },
+    {
+      "id":"5",
+      "title":"Event 5",
+      "description":"Description 5",
+      "category":"Music",
+      "date":"April 25"
+    },
+    {
+      "id":"6",
+      "title":"Event 6",
+      "description":"Description 6",
+      "category":"Cultural",
+      "date":"April 25"
+    }
+
+  ],
+  "dashboard":{
+      "likes":"5",
+      "comments":"10",
+      "reactions":"6"
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "category":"sports",
+      "description":"Description 1"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "category":"politics",
+      "description":"Description 2"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "category":"politics",
+      "description":"Description 3"
+    },
+    {
+      "id": 4,
+      "title": "News Article 4",
+      "category":"sports",
+      "description":"Description 4"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price":1000,
+      "description":"Description 1"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price":2000,
+      "description":"Description 2"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price":3000,
+      "description":"Description 3"
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price":4000,
+      "description":"Description 4"
+    }
+  ]
+ 
+}
